@@ -13,3 +13,5 @@ did a first change in the workflow
 here's a second change
 
 and here's a final change
+
+crap.  let's try minor in the first, major in the second
