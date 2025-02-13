@@ -20,7 +20,7 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
-        fetch-depth: '0'
+        fetch_depth: '0'
 
       - name: Configure Git Credentials
         run: |
