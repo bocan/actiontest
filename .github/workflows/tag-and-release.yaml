@@ -13,7 +13,6 @@ env:
   GITHUB_USER_TOKEN: ${{ secrets.GITHUBTOKEN }}
   GITHUB_USER_EMAIL: chris@funderburg.me
   GITHUB_USER_NAME: bocan
-  BRANCH_HISTORY: full
 
 jobs:
   tag-and-release:
