@@ -1,3 +1,3 @@
 # actiontest
 
-oope fouth change - major in first line of first commit message
+new set 1 - trying a patch in the body of the commit message
