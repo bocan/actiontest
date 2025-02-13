@@ -1,3 +1,3 @@
 # actiontest
 
-second change - minor in first line of first commit message
+third change - major in first line of first commit message
